@@ -1,2 +1,4 @@
 # central-admin-roblox
-A cool roblox script
+A Roblox "Admin commands" script, just like the others.
+
+I'll add more commands from time to time
